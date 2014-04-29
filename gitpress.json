@@ -1,5 +1,5 @@
 {
-    "docs"      : ["posts"],
+    "docs"      : {"扯淡集":"扯淡集", "伪技术宅":"伪技术宅"},
     "template"    : "default",
     "domain_alias" :  ["blog.thincamel.gitpress.org"],    
     "perpage"   : 10,
