@@ -1,7 +1,7 @@
 {
     "docs"      : ["posts"],
     "template"    : "default",
-    "domain_alias" :  ["thincamel.domain"],    
+    "domain_alias" :  ["blog.thincamel.gitpress.org"],    
     "perpage"   : 10,
     "order"  : "number",
     "types"     : {
