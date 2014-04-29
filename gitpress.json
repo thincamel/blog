@@ -1,9 +1,7 @@
 {
     "docs"      : {"扯淡集":"扯淡集", "伪技术宅":"伪技术宅"},
-    "template"    : "tactile",
     "domain_alias" :  ["blog.thincamel.gitpress.org"],    
-    "perpage"   : 10,
-    "order"  : "number",
+    "perpage"   : 5,
     "types"     : {
         "\\.(md||markdown)$"   : "markdown", 
         "\\.(js||css||json)$"  : "code",
@@ -12,7 +10,7 @@
     },
     "title"  : "XieZhen's Blog",
     "description" : "The Deadline...",
-    "comment"  : {"type":"disqus", "short_name":"gitpress"},
+    "comment"  : {"type":"disqus", "short_name":"XieZhen"},
     "friends"  : [
         {
           "name"  : "github",
