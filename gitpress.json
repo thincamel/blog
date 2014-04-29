@@ -1,6 +1,6 @@
 {
     "docs"      : {"扯淡集":"扯淡集", "伪技术宅":"伪技术宅"},
-    "template"    : "slate",
+    "template"    : "pithiness",
     "domain_alias" :  ["blog.thincamel.gitpress.org"],    
     "perpage"   : 10,
     "order"  : "number",
